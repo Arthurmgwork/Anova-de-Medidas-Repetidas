@@ -29,6 +29,7 @@ Ao mensurar a variável 𝐹(𝑜𝑏𝑠𝑒𝑟𝑣𝑎𝑑𝑜) do ANOVA é p
 ## Como usar?
 
 f = 𝐹𝑜𝑏𝑠𝑒𝑟𝑣𝑎𝑑𝑜
+
 x = conjunto de dados (variavel que possui linha por colunas).
 Usando o exemplo mencionado acima, as linhas são as pessoas que participaram da pesquisa e as colunas são os dias que elas tiveram que tomar um remédio.
 
